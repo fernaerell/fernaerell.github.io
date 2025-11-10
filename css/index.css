@@ -1,0 +1,122 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom, #0D1117, #475C7D);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff;
+    user-select: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 27px;
+}
+
+.container>img {
+    width: 100px;
+}
+
+.container>p {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.container>p>a {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.container>div:nth-child(3) {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container>div:nth-child(3)>#typed {
+    font-weight: bold;
+    font-size: 2.625rem;
+    line-height: 130%;
+    text-align: center;
+}
+
+.container>div:nth-child(3)>.typed-cursor {
+    font-size: 2.625rem;
+    line-height: 130%;
+}
+
+.container>div:nth-child(4) {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.container>div:nth-child(4) a {
+    transition: all;
+    transition-duration: 100ms;
+}
+
+.container>div:nth-child(4) a:hover {
+    scale: 1.1;
+}
+
+.animate__delay-1 {
+    animation-delay: 100ms;
+}
+
+.animate__delay-2 {
+    animation-delay: 200ms;
+}
+
+.animate__delay-3 {
+    animation-delay: 300ms;
+}
+
+.animate__delay-4 {
+    animation-delay: 400ms;
+}
+
+.animate__delay-5 {
+    animation-delay: 500ms;
+}
+
+.animate__delay-6 {
+    animation-delay: 600ms;
+}
+
+.animate__delay-7 {
+    animation-delay: 700ms;
+}
+
+.animate__delay-8 {
+    animation-delay: 800ms;
+}
+
+.animate__delay-9 {
+    animation-delay: 900ms;
+}
+
+.animate__delay-10 {
+    animation-delay: 1000ms;
+}
+
+.animate__delay-11 {
+    animation-delay: 1100ms;
+}
+
+.animate__delay-12 {
+    animation-delay: 1200ms;
+}

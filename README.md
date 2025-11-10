@@ -2,7 +2,7 @@
 
 This is the repository to view the static project site I created.
 
-| Website |
+| Projects |
 | ------- |
 | [Wk.com](https://fernaerell.github.io/projects/wk/index.html) |
 | [SMK PEKANBARU RAVENGERS](https://fernaerell.github.io/projects/smk_pr/index.html) |
